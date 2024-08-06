@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  h1 {
+    color: #343a40;
+    margin-bottom: 20px;
+  }
+  
+  .list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .btn {
+    margin-left: 10px;
+  }
+  
+  .form-control {
+    margin-bottom: 10px;
+  }
+  
+  .mt-2 {
+    margin-top: 10px;
+  }
+  
+  .mt-4 {
+    margin-top: 20px;
+  }
+  
+  .float-right {
+    float: right;
+  }
+  
